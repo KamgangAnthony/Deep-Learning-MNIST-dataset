@@ -9,10 +9,16 @@ This is a classification issue with 10 classes as there are only 10 numbers (0, 
 
 * The dataset is called MNIST and refers to handwritten digit recognition.
 
+
+## Code and Resources Used
+
 **Python Version:** 3.10.5
 
 **Packages:** pandas, numpy, sklearn, matplotlib, tensorflow, tensorflow_datasets
 
+
+
+## Data preprocessing and fitting
 
 I discovered the data was clean after importing it, so I:
 
@@ -33,5 +39,9 @@ The photos in the dataset are organized as follows:
 ![How the images in the dataset are](https://github.com/KamgangAnthony/Deep-Learning-MNIST-dataset/blob/master/image.png "How the images in the dataset are")
 
 The digits in each picture must then be recognized by the algorithm.
+
+
+
+## Results
 
 With a test accuracy of 97.28 percent, the model successfully categorized 9 out of every 10 photos. 

@@ -31,7 +31,7 @@ I discovered the data was clean after importing it, so I:
 
 The photos in the dataset are organized as follows:
 
-![alt text](image.PNG "How the images in the dataset are")
+![How the images in the dataset are](https://github.com/KamgangAnthony/Deep-Learning-MNIST-dataset/blob/master/image.png "How the images in the dataset are")
 
 The digits in each picture must then be recognized by the algorithm.
 

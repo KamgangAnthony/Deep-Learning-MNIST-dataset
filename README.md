@@ -13,7 +13,6 @@ This is a classification issue with 10 classes as there are only 10 numbers (0, 
 
 **Packages:** pandas, numpy, sklearn, matplotlib, tensorflow, tensorflow_datasets
 
-**For Web Framework Requirements:** ```pip install -r requirements.txt```
 
 I discovered the data was clean after importing it, so I:
 
